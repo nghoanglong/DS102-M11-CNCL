@@ -1,4 +1,4 @@
-# # Học máy thống kê - # DS102.M11.CNCL
+# Học máy thống kê - DS102.M11.CNCL
 ## Introduction
 Repo này lưu trữ toàn bộ data, source code cho đồ án môn Học máy thống kê (DS102.M11.HTCL), vui lòng gửi message cho một trong 3 contact-information bên dưới nếu có bất kỳ thắc mắc nào.
 
