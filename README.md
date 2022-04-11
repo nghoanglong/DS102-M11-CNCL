@@ -33,7 +33,7 @@ Repo này lưu trữ toàn bộ data, source code cho đồ án môn Học máy 
 2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 ## Contact information
-[Hoàng Long](https://www.facebook.com/nghoanglong.17dec/)
+[Hoàng Long](https://www.facebook.com/umhummmm)
 
 [Quỳnh Hoa](https://www.facebook.com/quynhhoa0123)
 
